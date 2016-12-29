@@ -1,0 +1,43 @@
+.header {
+    min-height: 65px;
+}
+
+.tableHeader {
+    background: #84bfea;
+    min-width: 192px !important;
+    border: none !important;
+    width: 6% !important;
+    color: white;
+    padding-right: 0 !important;
+}
+
+.tableClass {
+    border: 2px solid lightgrey;
+}
+
+.listView {
+    margin: 7% 15%;
+}
+
+#search {
+    margin: 0 14%;
+}
+
+.imageStyle {
+    height: 200px !important;
+    width: 200px;
+}
+
+.imageContainer {
+    box-shadow: 4px 6px 5px #e8e8e8;
+}
+
+.noData {
+    color: red;
+    margin-left: 20px;
+}
+
+.logo {
+    height: 30px !important;
+    width: 140px;
+}
